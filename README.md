@@ -1,7 +1,7 @@
 
 
 
-<img src="https://i.ibb.co/ryXTh51/man.png" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/ryXTh51/man.png" alt="drawing" width="400"/>
 
 ### Hi there 👋, I am Piyas
 #### Self Made Full Stack Developer and Youtuber :)
