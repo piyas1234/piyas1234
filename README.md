@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/followers/piyas1234?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
-  <a href="https://github.com/piyas1234?tab=followers">
+  <a href="https://www.youtube.com/channel/UCq6z3g0J-k0oRFaa9QID5JA">
     <img src="https://img.shields.io/youtube/views/UCq6z3g0J-k0oRFaa9QID5JA?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 
