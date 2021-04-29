@@ -2,6 +2,7 @@
 
 
 ![piyas Talukder](https://i.ibb.co/ryXTh51/man.png)
+<img src="https://i.ibb.co/ryXTh51/man.png" alt="drawing" style="width:200px;"/>
 ### Hi there 👋, I am Piyas
 #### Self Made Full Stack Developer and Youtuber :)
 
