@@ -3,7 +3,7 @@
 
 ![piyas Talukder](https://i.ibb.co/ryXTh51/man.png)
 ### Hi there 👋, I am Piyas
-#### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
+#### Self Made Full Stack Developer and Youtuber :)
 
 <p align="center">I am Piyas,  I am a full-stack web developer and a Youtuber. I make videos on web development and web designing, so if it sounds interesting check out my
   <a href="https://www.youtube.com/channel/UCq6z3g0J-k0oRFaa9QID5JA">
