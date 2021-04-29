@@ -1,7 +1,7 @@
 
 
 
-![piyas Talukder](https://i.ibb.co/Wz7YwBm/Pics-Art-07-05-08-48-06-2.png)
+![piyas Talukder](https://i.ibb.co/ryXTh51/man.png)
 ### Hi there 👋, I am Piyas
 #### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
 
