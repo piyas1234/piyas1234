@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/piyas1234?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dey-Sumit?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/piyas1234?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
   <a href="https://github.com/piyas1234?tab=followers">
-    <img src="https://img.shields.io/youtube/views/Ew4wlgcUEYk?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/views/UCq6z3g0J-k0oRFaa9QID5JA?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 
 </p>
