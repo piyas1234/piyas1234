@@ -1,7 +1,7 @@
 
 
 
-![piyas Talukder](https://ibb.co/xgwR0zx)
+![piyas Talukder]("https://ibb.co/xgwR0zx")
 ### Hi there 👋, I am Piyas
 #### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
 
