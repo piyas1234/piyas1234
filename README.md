@@ -1,7 +1,7 @@
 
 
 
-![piyas Talukder](https://raw.githubusercontent.com/Dey-Sumit/Dey-Sumit/main/Sumit%20Dey.png)
+![piyas Talukder](https://drive.google.com/file/d/1F4aOaxLUWaGTWTZ4D4fE74OAxQlG_a0M/view?usp=sharing)
 ### Hi there 👋, I am Piyas
 #### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
 
