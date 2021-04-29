@@ -1,8 +1,7 @@
 
 
 
-![piyas Talukder](https://drive.google.com/file/d/1F4aOaxLUWaGTWTZ4D4fE74OAxQlG_a0M/preview)
-```html <iframe src="https://drive.google.com/file/d/1F4aOaxLUWaGTWTZ4D4fE74OAxQlG_a0M/preview" width="640" height="480"></iframe>```
+![piyas Talukder](https://ibb.co/xgwR0zx)
 ### Hi there 👋, I am Piyas
 #### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
 
