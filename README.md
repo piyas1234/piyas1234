@@ -2,7 +2,7 @@
 
 
 ![piyas Talukder](https://raw.githubusercontent.com/Dey-Sumit/Dey-Sumit/main/Sumit%20Dey.png)
-### Hi there 👋, I am Sumit
+### Hi there 👋, I am Piyas
 #### Self Made Full Stack Developer and Youtuber aka Backbench Coder :)
 
 <p align="center">I am Piyas,  I am a full-stack web developer and a Youtuber. I make videos on web development and web designing, so if it sounds interesting check out my
