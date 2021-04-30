@@ -1,7 +1,7 @@
 
 
 
-  <img  border="5px solid tomato" src="https://i.ibb.co/Kx17RkT/Pics-Art-04-08-04-00-18.jpg" alt="drawing" width="40%"/>
+  <img  border="5px solid tomato" src="PicsArt_05-01-01.11.11.jpg" alt="drawing" />
 
 ### Hi there 👋, I am Piyas
 #### MERN Stack Web Developer and Youtuber :)
