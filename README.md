@@ -1,7 +1,7 @@
 
 
 
-  <img style="border 5px solid tomato" src="https://i.ibb.co/Kx17RkT/Pics-Art-04-08-04-00-18.jpg" alt="drawing" width="40%"/>
+  <img  border="5px solid tomato" src="https://i.ibb.co/Kx17RkT/Pics-Art-04-08-04-00-18.jpg" alt="drawing" width="40%"/>
 
 ### Hi there 👋, I am Piyas
 #### Self Made Full Stack Developer and Youtuber :)
