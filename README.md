@@ -4,7 +4,9 @@
   <img  border="5px solid tomato" src="https://i.ibb.co/Kx17RkT/Pics-Art-04-08-04-00-18.jpg" alt="drawing" width="40%"/>
 
 ### Hi there 👋, I am Piyas
-#### Self Made Full Stack Developer and Youtuber :)
+#### MERN Stack Web Developer and Youtuber :)
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/piyas-talukder/) [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/piyastalukderr/) 
 
 <p align="center">I am Piyas,  I am a full-stack web developer and a Youtuber. I make videos on web development and web designing, so if it sounds interesting check out my
   <a href="https://www.youtube.com/channel/UCq6z3g0J-k0oRFaa9QID5JA">
