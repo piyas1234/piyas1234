@@ -58,7 +58,47 @@
 
 
 
-<h2>Recent Work
+## My Recent Projects -
+
+### Electro Repair
+#### Private Detective and Security Firm Website, [Live Site](https://electrorepair-17742.web.app/), [Client Repo](https://github.com/piyas1234/electrorepair), [Server Repo](https://github.com/piyas1234/ElectroRepair-----API)
+
+- Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
+- I used React, Bootstrap, Font Awesome icons, Flat Icon , React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
+
+ 
+### Bangla stall
+#### Bangla Stall, [Live Site](https://bangla-stall.web.app/), [Client Repo](https://github.com/piyas1234/-bangla-stall), [Server Repo](https://github.com/piyas1234/bangla-stall-server)
+- Products data coming from Mongodb server
+- User Specific order list
+- Google User authentication (login method)
+- Admin page to manage product, Create and delete product item from database
+- and Responsive layout
+
+![go -rider](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/flourish-blotts.png)
+
+
+### go-rider
+#### ticket Booking site, [Live Site](https://go-riders-67527.web.app), [Code Repo](https://github.com/piyas1234/go-rider)
+This project is mainly focused firebase authentication. Here I have added..
+- Firebase Authentication
+- React Router
+- Private (secure) Routing
+- Responsive Layout
+- Material UI Icons
+ 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 
 
