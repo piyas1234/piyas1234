@@ -69,9 +69,9 @@
 - I used React, Bootstrap, Font Awesome icons, Flat Icon , React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
 
  
-<br/>
-<br/>
+ 
 <img src="https://github.com/piyas1234/-bangla-stall/blob/main/Screenshot_12.png?raw=true"/>
+
 ### Bangla stall
 #### Bangla Stall, [Live Site](https://bangla-stall.web.app/), [Client Repo](https://github.com/piyas1234/-bangla-stall), [Server Repo](https://github.com/piyas1234/bangla-stall-server)
 - Products data coming from Mongodb server
