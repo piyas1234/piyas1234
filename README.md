@@ -62,6 +62,17 @@
 
 ## My Recent Projects -
 
+<img src="https://github.com/piyas1234/instagramme/raw/main/Screenshot_19.png"/>
+
+### Electro Repair
+#### Private Detective and Security Firm Website, [Live Site](https://instagrammeclone.web.app/), [Client Repo](https://github.com/piyas1234/instagramme) 
+
+ 
+- I used React,  Font Awesome icons, Flat Icon ,  . For Backend I used-  Firebase and Heroku server to deploy live server.
+
+
+
+
 <img src="https://raw.githubusercontent.com/piyas1234/electrorepair/main/Screenshot_11.png"/>
 
 ### Electro Repair
@@ -69,6 +80,10 @@
 
 - Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
 - I used React, Bootstrap, Font Awesome icons, Flat Icon , React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
+
+
+
+
 
  
  
