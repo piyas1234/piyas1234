@@ -64,7 +64,7 @@
 
 <img src="https://github.com/piyas1234/instagramme/raw/main/Screenshot_19.png"/>
 
-### Electro Repair
+### Instagrammer Clone
 #### Private Detective and Security Firm Website, [Live Site](https://instagrammeclone.web.app/), [Client Repo](https://github.com/piyas1234/instagramme) 
 
  
