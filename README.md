@@ -70,11 +70,6 @@
  
 - I used React,  Font Awesome icons, Flat Icon ,  . For Backend I used-  Firebase and Heroku server to deploy live server.
 
-
-
-
-<img src="https://raw.githubusercontent.com/piyas1234/electrorepair/main/Screenshot_11.png"/>
-
  
  
 
