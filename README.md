@@ -75,39 +75,7 @@
 
 <img src="https://raw.githubusercontent.com/piyas1234/electrorepair/main/Screenshot_11.png"/>
 
-### Electro Repair
-#### Private Detective and Security Firm Website, [Live Site](https://electrorepair-17742.web.app/), [Client Repo](https://github.com/piyas1234/electrorepair), [Server Repo](https://github.com/piyas1234/ElectroRepair-----API)
-
-- Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
-- I used React, Bootstrap, Font Awesome icons, Flat Icon , React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
-
-
-
-
-
  
- 
-<img src="https://github.com/piyas1234/-bangla-stall/blob/main/Screenshot_12.png?raw=true"/>
-
-### Bangla stall
-#### Bangla Stall, [Live Site](https://bangla-stall.web.app/), [Client Repo](https://github.com/piyas1234/-bangla-stall), [Server Repo](https://github.com/piyas1234/bangla-stall-server)
-- Products data coming from Mongodb server
-- User Specific order list
-- Google User authentication (login method)
-- Admin page to manage product, Create and delete product item from database
-- and Responsive layout
-
-![go -rider](https://github.com/piyas1234/go-rider/raw/main/Screenshot_14.png)
-
-
-### go-rider
-#### ticket Booking site, [Live Site](https://go-riders-67527.web.app), [Code Repo](https://github.com/piyas1234/go-rider)
-This project is mainly focused firebase authentication. Here I have added..
-- Firebase Authentication
-- React Router
-- Private (secure) Routing
-- Responsive Layout
-- Material UI Icons
  
 
  
